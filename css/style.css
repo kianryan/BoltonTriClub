@@ -527,6 +527,20 @@
 					border-top-color: #827a7c;
 				}
 
+ul.unordered-inline {
+	list-style: none;
+}
+
+ul.unordered-inline li {
+	display:inline-block;
+	margin: 5px;
+}
+
+ul.gallery img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
 /*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
